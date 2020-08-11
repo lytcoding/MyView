@@ -40,7 +40,7 @@
             //画圆
             canvas.drawCircle(175,200,150,paint);
 
-            paint.setColor(0x7EFFFF00);
-            canvas.drawCircle(190,200,100,paint);
+            //paint.setColor(0x7EFFFF00);
+            //canvas.drawCircle(190,200,100,paint);
         }
     }
